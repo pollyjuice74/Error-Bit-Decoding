@@ -9,6 +9,7 @@
 11/15/2023 - Reading thesis: https://www.diva-portal.org/smash/get/diva2:1146212/FULLTEXT02.pdf, beginned Background (pt 2)
 
 11/16/2023 - Continued thesis, finished Background, beginned Neural Network Decoders (pt 3)
+
 ---
 
 11/19/2023 - Watched video on language models, attention and Transformer NNs
