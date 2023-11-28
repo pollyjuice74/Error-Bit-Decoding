@@ -22,7 +22,7 @@
 
 ---
 
-11/27/2023 - Read about 5G LDPC codes
+11/27/2023 - Read about 5G LDPC codes, Shannon limit and Information Theory
 
 ---
 
