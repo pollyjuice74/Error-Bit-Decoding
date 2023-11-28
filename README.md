@@ -35,3 +35,6 @@ of Forward Error Correction Codes
 
 https://www.diva-portal.org/smash/get/diva2:1146212/FULLTEXT02.pdf
 
+GNN Decoder GH
+
+https://github.com/NVlabs/gnn-decoder
