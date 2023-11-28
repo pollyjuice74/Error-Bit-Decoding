@@ -1,4 +1,4 @@
-# LDPC codes
+# Day logs
 
 11/12/2023 - Finished implementing quintuple decoder with BER check using majority voting system algorithm
 
@@ -19,6 +19,10 @@
 11/21/2023 - Began implementing a Attention Head
 
 11/22/2023 - Constructed a 1 Head Attention layer 
+
+---
+
+11/27/2023 - Read about 5G LDPC codes
 
 ---
 
