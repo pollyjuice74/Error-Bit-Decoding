@@ -24,6 +24,10 @@
 
 11/27/2023 - Read about 5G LDPC codes, Shannon limit and Information Theory
 
+11/30/2023 - Implemented a two layer nn for practice
+
+12/1/2023 - Began implementation of Hamming Codes in colab
+
 ---
 
 5G LDPC Codes
