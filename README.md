@@ -1,3 +1,6 @@
+# To-Do
+- Create a SPA NN decoder
+
 # Day logs
 
 11/12/2023 - Finished implementing quintuple decoder with BER check using majority voting system algorithm
@@ -29,6 +32,7 @@
 12/1/2023 - Began implementation of Hamming Codes in colab
 
 ---
+# Resources
 
 5G LDPC Codes
 
