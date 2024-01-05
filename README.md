@@ -42,3 +42,7 @@ https://www.diva-portal.org/smash/get/diva2:1146212/FULLTEXT02.pdf
 GNN Decoder GH
 
 https://github.com/NVlabs/gnn-decoder
+
+Optical High Data Rate (HDR)
+
+https://public.ccsds.org/Pubs/141x11o1e2.pdf
