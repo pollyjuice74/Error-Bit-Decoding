@@ -35,6 +35,8 @@
 
 1/17/2023 - Reading "Optical High Data Rate (HDR)"
 
+1/18/2023 - Reading on Sum Product Algorithm
+
 ---
 # Resources
 
