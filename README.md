@@ -32,6 +32,10 @@
 12/1/2023 - Began implementation of Hamming Codes in colab
 
 ---
+
+1/17/2023 - Reading "Optical High Data Rate (HDR)"
+
+---
 # Resources
 
 5G LDPC Codes
