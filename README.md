@@ -37,6 +37,8 @@
 
 1/18/2023 - Reading on Sum Product Algorithm
 
+1/19/2023 - Reading about LDPC codes, and kept reading on SPA
+
 ---
 # Resources
 
