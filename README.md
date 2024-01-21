@@ -42,7 +42,7 @@
 ---
 # Resources
 
-5G LDPC Codes
+- 5G LDPC Codes
 
 https://webdemo.inue.uni-stuttgart.de/webdemos/08_research/5G_LDPC_Codes/index.php?id=2&action=table_of_contents
 
