@@ -33,11 +33,13 @@
 
 ---
 
-1/17/2023 - Reading "Optical High Data Rate (HDR)"
+1/17/2024 - Reading "Optical High Data Rate (HDR)"
 
-1/18/2023 - Reading on Sum Product Algorithm
+1/18/2024 - Reading on Sum Product Algorithm
 
-1/19/2023 - Reading about LDPC codes, and kept reading on SPA
+1/19/2024 - Reading about LDPC codes, and kept reading on SPA
+
+1/21/2024 - Began implementing SPA
 
 ---
 # Resources
