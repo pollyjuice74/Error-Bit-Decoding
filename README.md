@@ -58,3 +58,9 @@ https://github.com/NVlabs/gnn-decoder
 Optical High Data Rate (HDR)
 
 https://public.ccsds.org/Pubs/141x11o1e2.pdf
+
+Sum Product Nodes
+https://github.com/ilyakava/sumproduct/blob/master/sumproduct.py#L4C1-L24C40
+
+SPFlow
+https://github.com/SPFlow/SPFlow
