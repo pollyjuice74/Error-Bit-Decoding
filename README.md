@@ -46,21 +46,23 @@
 
 https://webdemo.inue.uni-stuttgart.de/webdemos/08_research/5G_LDPC_Codes/index.php?id=2&action=table_of_contents
 
-Machine Intelligence in Decoding
+- Machine Intelligence in Decoding
 of Forward Error Correction Codes
 
 https://www.diva-portal.org/smash/get/diva2:1146212/FULLTEXT02.pdf
 
-GNN Decoder GH
+- GNN Decoder GH
 
 https://github.com/NVlabs/gnn-decoder
 
-Optical High Data Rate (HDR)
+- Optical High Data Rate (HDR)
 
 https://public.ccsds.org/Pubs/141x11o1e2.pdf
 
-Sum Product Nodes
+- Sum Product Nodes
+
 https://github.com/ilyakava/sumproduct/blob/master/sumproduct.py#L4C1-L24C40
 
-SPFlow
+- SPFlow
+
 https://github.com/SPFlow/SPFlow
