@@ -39,7 +39,11 @@
 
 1/19/2024 - Reading about LDPC codes, and kept reading on SPA
 
+---
+
 1/21/2024 - Began implementing SPA
+
+1/22/2024 - Reading about LDPC codes
 
 ---
 # Resources
