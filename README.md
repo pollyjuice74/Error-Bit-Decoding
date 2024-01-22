@@ -48,6 +48,10 @@
 ---
 # Resources
 
+- LDPC Codes Overview
+
+https://arxiv.org/ftp/arxiv/papers/2009/2009.08645.pdf
+
 - Bayesian Reasoning and Machine Learning
 
 http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
