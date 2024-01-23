@@ -48,6 +48,14 @@
 ---
 # Resources
 
+- NVlabs gnn decoder
+
+https://github.com/NVlabs/gnn-decoder/blob/master/GNN_decoder_LDPC_5G.ipynb
+
+- Sionna
+
+https://github.com/NVlabs/sionna?tab=readme-ov-file
+
 - LDPC Codes Overview
 
 https://arxiv.org/ftp/arxiv/papers/2009/2009.08645.pdf
