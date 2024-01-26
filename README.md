@@ -45,6 +45,10 @@
 
 1/22/2024 - Reading about LDPC codes
 
+1/23/2024 - Kept reading on LDPC codes and SPA
+
+1/25/2024 - Reading on Sionna, read GNN for Channel Decoding, reading on gnn-decoders, talked with professor. 
+
 ---
 # Resources
 
@@ -55,6 +59,10 @@ https://github.com/NVlabs/gnn-decoder/blob/master/GNN_decoder_LDPC_5G.ipynb
 - Sionna
 
 https://github.com/NVlabs/sionna?tab=readme-ov-file
+
+- Graph Neural Networks for Channel Decoding
+
+https://arxiv.org/pdf/2207.14742.pdf
 
 - LDPC Codes Overview
 
