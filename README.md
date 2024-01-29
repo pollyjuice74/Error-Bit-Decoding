@@ -50,6 +50,11 @@
 1/25/2024 - Reading on Sionna, read GNN for Channel Decoding, reading on gnn-decoders, talked with professor. 
 
 ---
+
+1/28/2024 - Reading Sionna tutorials 1, 2, and 3, Sionna documentation, source code and on a colab notebook. 
+
+---
+
 # Resources
 
 - NVlabs gnn decoder
