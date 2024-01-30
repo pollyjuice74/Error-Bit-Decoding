@@ -53,6 +53,8 @@
 
 1/28/2024 - Reading Sionna tutorials 1, 2, and 3, Sionna documentation, source code and on a colab notebook. 
 
+1/29/2024 - Reading Sionna tutorial 4, some documentation. 
+
 ---
 
 # Resources
