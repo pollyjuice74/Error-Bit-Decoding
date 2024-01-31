@@ -55,6 +55,8 @@
 
 1/29/2024 - Reading Sionna tutorial 4, some documentation. 
 
+1/30/2024 - Implemented NeuralDemapper.ipnb, reading about fine tunning.
+
 ---
 
 # Resources
