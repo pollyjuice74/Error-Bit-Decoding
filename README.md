@@ -2,7 +2,7 @@
 
 This is a github repo for current research conducted at the UPRRP for Graph Neural Network decoders and their use in bit error correction from a transmiter and a reciever through a noisy channel.
 
-They are our focus of study due to current algorithms for error decoding codes such as LDPC codes that use the Sum Product Algorithm for decoding. Essentially we are trying to better them through the heuristic approach that neural networks provide.
+They are our focus of study due to current algorithms for error decoding codes such as LDPC codes that use the Sum Product Algorithm for decoding which can be represented as a graph. Essentially we are trying to better the algorithm through the heuristic approach that neural networks provide.
 
   ## Overview
 
