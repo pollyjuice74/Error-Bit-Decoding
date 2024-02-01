@@ -14,4 +14,4 @@ This repo contains Jupyter Notebooks and a `Journal.md` file.
 
 - `HammingCode.ipynb` Simple implementation of Hamming Codes using numpy. 
 
-- `quintuple_decoder.ipynb` Implements some functions for creating bit data, thien id decodes them using Majority Voting System algorithm. This algorithm is compared to a 2 layer dense Neural Network. 
+- `quintuple_decoder.ipynb` Implements some functions for creating bit data, and a noisy channel. It then decodes them using Majority Voting System algorithm. This algorithm is compared to a 2 layer dense Neural Network that is also built in the notebook. 
