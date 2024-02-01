@@ -8,6 +8,8 @@ They are our focus of study due to current algorithms for error decoding codes s
 
 This repo contains Jupyter Notebooks and a `Journal.md` file. 
 
+- `Journal.md` Contains To-Dos, Daily logs and Resource links. 
+
 - `NeuralDemapper.ipynb` Using the Sionna framework, there is an implementation of a End-to-End channel that uses a demapper/decoder Neural Network containing 3 dense layers.
 
 - `HammingCode.ipynb` Simple implementation of Hamming Codes using numpy. 
