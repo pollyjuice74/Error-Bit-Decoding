@@ -5,6 +5,10 @@
 
 - Making a small autoencoder network maybe 5-3-5 or 5-2-1-2-5, with nodes that are more complex than others like the single one connecting  5-2-1-2-5
 
+- Dropout on small autoencoder
+
+  
+
 # Day logs
 
 11/12/2023 - Finished implementing quintuple decoder with BER check using majority voting system algorithm
@@ -64,6 +68,8 @@
 2/2/2024 - Meeting at UPR Cayey
 
 ---
+
+
 
 # Resources
 
