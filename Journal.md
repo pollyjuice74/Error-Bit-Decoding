@@ -1,6 +1,8 @@
 # To-Do
 - Create a SPA NN decoder
 
+- BCH, Autoencoders, GNN
+
 - Making a small autoencoder network maybe 5-3-5 or 5-2-1-2-5, with nodes that are more complex than others like the single one connecting  5-2-1-2-5
 
 # Day logs
@@ -56,6 +58,10 @@
 1/28/2024 - Reading Sionna tutorials 1, 2, and 3, Sionna documentation, source code and on a colab notebook. 
 
 1/29/2024 - Reading Sionna tutorial 4, some documentation. 
+
+2/1/2024 - 
+
+2/2/2024 - Meeting at UPR Cayey
 
 ---
 
