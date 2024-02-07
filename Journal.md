@@ -69,6 +69,13 @@
 
 ---
 
+2/4/2024 - Read about GNN decoders
+
+2/5/2024 - Implemented GNN decoder
+
+2/6/2024 - Implemented BCH decoder
+
+---
 
 
 # Resources
