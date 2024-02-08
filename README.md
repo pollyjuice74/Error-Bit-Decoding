@@ -10,6 +10,10 @@ This repo contains Jupyter Notebooks and a `Journal.md` file.
 
 - `Journal.md` Contains To-Dos, Daily logs and Resource links. 
 
+- `BCHDecoder` Implements a Belief Propagation decoder with trainable weights that acheives around ~0.00019 bit error rate.
+
+- `GNNDecoder` Implements a GNN decoder architecture's performance in a noisy end-to-end channel and trains it to ~0.012 bit error rate. 
+  
 - `NeuralDemapper.ipynb` Using the Sionna framework, there is an implementation of a End-to-End channel that uses a demapper/decoder Neural Network containing 3 dense layers.
 
 - `HammingCode.ipynb` Simple implementation of Hamming Codes using numpy. 
