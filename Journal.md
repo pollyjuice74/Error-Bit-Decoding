@@ -75,6 +75,10 @@
 
 2/6/2024 - Implemented BCH decoder
 
+2/8/2024 - Enviar progreso al Profesor y discutirlo
+
+2/9/2024 - Leer especificaciones de asignacione y Sage
+
 ---
 
 
