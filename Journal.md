@@ -81,6 +81,10 @@
 
 ---
 
+2/15/2024 - Reading specifications, planning data generating function, reading on Sage code
+
+---
+
 
 # Resources
 
