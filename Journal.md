@@ -83,6 +83,8 @@
 
 2/15/2024 - Reading specifications, planning data generating function, reading on Sage code
 
+2/18/2024 - Planning how to make BCH decoders, reading advanced Sionna tutorials on WBP, and Iterative Decoding, Autoencoders and Detecting
+
 ---
 
 
