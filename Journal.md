@@ -83,7 +83,11 @@
 
 2/15/2024 - Reading specifications, planning data generating function, reading on Sage code
 
+---
+
 2/18/2024 - Planning how to make BCH decoders, reading advanced Sionna tutorials on WBP, and Iterative Decoding, Autoencoders and Detecting
+
+2/21/2024 - Meeting with Prof, talked about BCH codes, TODO convert txt file to arrays and feed to LDPCEncoder, then train; read about BCH codes
 
 ---
 
