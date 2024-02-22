@@ -7,7 +7,9 @@
 
 - Dropout on small autoencoder
 
-  
+## Ideas
+- Instead of deciphering the noisy data, decipher the noise
+
 
 # Day logs
 
