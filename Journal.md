@@ -91,6 +91,12 @@
 
 2/21/2024 - Meeting with Prof, talked about BCH codes, TODO convert txt file to arrays and feed to LDPCEncoder, then train; read about BCH codes
 
+2/23/2024 - Reading on TensorFlow Graph Neural Network module
+
+---
+
+2/25/2024 - Further reading on TfGnn
+
 ---
 
 
