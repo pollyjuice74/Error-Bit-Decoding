@@ -89,6 +89,8 @@
 
 2/18/2024 - Planning how to make BCH decoders, reading advanced Sionna tutorials on WBP, and Iterative Decoding, Autoencoders and Detecting
 
+2/19/2024 - Further reading
+
 2/21/2024 - Meeting with Prof, talked about BCH codes, TODO convert txt file to arrays and feed to LDPCEncoder, then train; read about BCH codes
 
 2/23/2024 - Reading on TensorFlow Graph Neural Network module
