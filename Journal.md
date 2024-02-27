@@ -99,6 +99,10 @@
 
 2/25/2024 - Further reading on TfGnn
 
+2/26/2024 - More reading on tfgnn
+
+2/27/2024 - Even more reading on tfgnn
+
 ---
 
 
