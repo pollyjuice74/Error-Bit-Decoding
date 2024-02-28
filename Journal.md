@@ -103,10 +103,16 @@
 
 2/27/2024 - Even more reading on tfgnn
 
+2/28/2024 - Reading on how Transformers are used for decoding
+
 ---
 
 
 # Resources
+
+- Error Correcting Transformer
+
+https://github.com/yoniLc/ECCT/blob/main/Main.py
 
 - NVlabs gnn decoder
 
