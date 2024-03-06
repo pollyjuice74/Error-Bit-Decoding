@@ -107,8 +107,16 @@
 
 ---
 
+3/5/2024 - 
+
+---
+
 
 # Resources
+
+- TFGNN Transformer-style multi-head attention
+
+https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/models/multi_head_attention/README.md
 
 - Error Correcting Transformer
 
