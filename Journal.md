@@ -107,7 +107,7 @@
 
 ---
 
-3/5/2024 - 
+3/5/2024 - Reading existing literature on Transformers for GNNs
 
 ---
 
