@@ -114,6 +114,10 @@
 
 # Resources
 
+- CS224w Machine Learning with Graphs (Stanford)
+
+https://web.stanford.edu/class/cs224w/
+
 - TFGNN Transformer-style multi-head attention
 
 https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/models/multi_head_attention/README.md
