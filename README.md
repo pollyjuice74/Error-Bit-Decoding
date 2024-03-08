@@ -24,6 +24,10 @@ This repo contains Jupyter Notebooks and a `Journal.md` file.
 
 # Resources
 
+- Spotify PyG GNN Recomender
+
+https://medium.com/stanford-cs224w/spotify-track-neural-recommender-system-51d266e31e16
+
 - CS224w Machine Learning with Graphs (Stanford)
 
 https://web.stanford.edu/class/cs224w/
