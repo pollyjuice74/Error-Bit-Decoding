@@ -109,5 +109,9 @@
 
 3/5/2024 - Reading existing literature on Transformers for GNNs
 
+3/7/2024 - Reading on PyTorch Geomatric and CS224W
+
+3/8/2024 - Reading on Spotify GNN recomender
+
 ---
 
