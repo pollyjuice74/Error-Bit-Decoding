@@ -111,7 +111,7 @@
 
 3/7/2024 - Reading on PyTorch Geomatric and CS224W
 
-3/8/2024 - Reading on Spotify GNN recomender
+3/8/2024 - Reading on Spotify GNN recomender, PyG and a little NetworkX
 
 ---
 
