@@ -109,9 +109,17 @@
 
 3/5/2024 - Reading existing literature on Transformers for GNNs
 
+
+---
+
 3/7/2024 - Reading on PyTorch Geomatric and CS224W
 
 3/8/2024 - Reading on Spotify GNN recomender, PyG and a little NetworkX
 
+general reading on transformers
+planned out a graph input output system
+
 ---
+
+3/18/2024 - Implementing transformer layers in Transformer_Captioning.ipynb to learn about transformer implementation
 
