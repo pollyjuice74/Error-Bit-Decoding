@@ -123,3 +123,6 @@ planned out a graph input output system
 
 3/18/2024 - Implementing transformer layers in Transformer_Captioning.ipynb to learn about transformer implementation
 
+3/19/2024 - Implementing positional encoding layer and reading about it
+
+3/20/2024 - Implementing CaptioningTransformer (for practice)
