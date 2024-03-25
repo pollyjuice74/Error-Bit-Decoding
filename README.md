@@ -38,7 +38,7 @@ https://github.com/tensorflow/gnn/blob/main/tensorflow_gnn/models/multi_head_att
 
 - Error Correcting Transformer
 
-https://github.com/yoniLc/ECCT/blob/main/Main.py
+https://github.com/yoniLc/ECCT
 
 - NVlabs gnn decoder
 
