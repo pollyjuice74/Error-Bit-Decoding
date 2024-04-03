@@ -109,7 +109,6 @@
 
 3/5/2024 - Reading existing literature on Transformers for GNNs
 
-
 ---
 
 3/7/2024 - Reading on PyTorch Geomatric and CS224W
@@ -126,3 +125,7 @@ planned out a graph input output system
 3/19/2024 - Implementing positional encoding layer and reading about it
 
 3/20/2024 - Implementing CaptioningTransformer (for practice)
+
+---
+
+4/2/2024 - Analyzing possible improvements for ECCT
