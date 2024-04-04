@@ -24,6 +24,10 @@ This repo contains Jupyter Notebooks and a `Journal.md` file.
 
 # Resources
 
+- Denoising Diffusion Error Correction Code Transformer
+
+https://github.com/yoniLc/DDECC
+
 - Spotify PyG GNN Recomender
 
 https://medium.com/stanford-cs224w/spotify-track-neural-recommender-system-51d266e31e16
