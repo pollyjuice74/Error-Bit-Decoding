@@ -131,3 +131,9 @@ planned out a graph input output system
 4/2/2024 - Analyzing possible improvements for ECCT
 
 4/3/2024 - Reading on DDECC, learning about Diffusion models and why they could be very helpful for our purposes
+
+---
+
+4/11/2024 - Reading mode DDECC, reading PyG documentation
+
+4/12/2024 - Meeting at UPR Cayey
