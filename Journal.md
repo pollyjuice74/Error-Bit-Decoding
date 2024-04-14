@@ -136,4 +136,10 @@ planned out a graph input output system
 
 4/11/2024 - Reading mode DDECC, reading PyG documentation
 
-4/12/2024 - Meeting at UPR Cayey
+4/12/2024 - Meeting at UPR Cayey, completed modifications for 3 error DDECCT
+
+4/13/2024 - Compleated saving method for DDECCT and began training
+
+--- 
+
+4/14/2024 - Training model, checking to see how to automate for longer training before colab quitting
