@@ -8,7 +8,11 @@ They are our focus of study due to current algorithms for error decoding codes s
 
 This repo contains Jupyter Notebooks and a `Journal.md` file. 
 
-- `Journal.md` Contains To-Dos, Daily logs and Resource links. 
+- `Journal.md` Contains To-Dos, Daily logs and Resource links.
+
+- `DDECCT_train.ipynb` BCH 63,45 code on DDECCT model training with zero codewords containing 3 error bits. Forked repo with trained weights: https://github.com/pollyjuice74/DDECC/tree/main  
+
+- `Transformer_Captioning.ipynb` Contains practice for incorporating Transformer architecture. 
 
 - `BCHDecoder.ipynb` Implements a Belief Propagation decoder with trainable weights that acheives around ~0.00019 bit error rate.
 
