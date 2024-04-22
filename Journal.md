@@ -140,14 +140,13 @@ planned out a graph input output system
 
 ---
 
-4/15-19/2024 - Practice coding for creating GNNs on PyTorch Geometric
-
---- 
-
-
 
 4/13/2024 - Compleated saving method for DDECCT and began training
 
+4/14/2024 - Training model, checking to see how to automate for longer training before colab quitting
+
 --- 
 
-4/14/2024 - Training model, checking to see how to automate for longer training before colab quitting
+4/15-19/2024 - Practice coding for creating GNNs on PyTorch Geometric
+
+--- 
