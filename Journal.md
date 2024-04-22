@@ -138,6 +138,14 @@ planned out a graph input output system
 
 4/12/2024 - Meeting at UPR Cayey, completed modifications for 3 error DDECCT
 
+---
+
+4/15-19/2024 - Practice coding for creating GNNs on PyTorch Geometric
+
+--- 
+
+
+
 4/13/2024 - Compleated saving method for DDECCT and began training
 
 --- 
