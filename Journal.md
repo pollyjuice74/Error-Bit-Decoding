@@ -150,3 +150,9 @@ planned out a graph input output system
 4/15-19/2024 - Practice coding for creating GNNs on PyTorch Geometric
 
 --- 
+
+4/24/2024 - Reading on Selenium documentation to automate training on Colab
+
+4/25/2024 - Heavy reading on PyG layers
+
+---
