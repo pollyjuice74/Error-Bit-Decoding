@@ -155,4 +155,6 @@ planned out a graph input output system
 
 4/25/2024 - Heavy reading on PyG layers
 
+4/26/2024 - Heavy reading on Hetero Graph Transformer and other PyG layers
+
 ---
