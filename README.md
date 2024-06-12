@@ -28,6 +28,10 @@ This repo contains Jupyter Notebooks and a `Journal.md` file.
 
 # Resources
 
+- Hyper-Graph-Network Decoders for Block Codes
+
+https://ai.meta.com/research/publications/hyper-graph-network-decoders-for-block-codes/
+
 - Denoising Diffusion Error Correction Code Transformer
 
 https://github.com/yoniLc/DDECC
